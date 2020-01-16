@@ -1,0 +1,1 @@
+<view><header1 class="vue-ref" vue-id="1" header="{{header}}" data-ref="header" bind:__l="__l"></header1>{{'子组件传来 '+runTime+''}}</view>

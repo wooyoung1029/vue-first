@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/test/index"],{"043a":function(t,e,n){"use strict";n.r(e);var u=n("a146"),r=n("d062");for(var a in r)"default"!==a&&function(t){n.d(e,t,function(){return r[t]})}(a);var f=n("2877"),c=Object(f["a"])(r["default"],u["a"],u["b"],!1,null,null,null);e["default"]=c.exports},"3d05":function(t,e,n){"use strict";var u=function(){var t=this,e=t.$createElement;t._self._c},r=[];n.d(e,"a",function(){return u}),n.d(e,"b",function(){return r})},8448:function(t,e,n){"use strict";n.r(e);var u=n("e3c6"),r=n.n(u);for(var a in u)"default"!==a&&function(t){n.d(e,t,function(){return u[t]})}(a);e["default"]=r.a},a146:function(t,e,n){"use strict";var u=function(){var t=this,e=t.$createElement;t._self._c},r=[];n.d(e,"a",function(){return u}),n.d(e,"b",function(){return r})},b0b6:function(t,e,n){"use strict";n.r(e);var u=n("3d05"),r=n("8448");for(var a in r)"default"!==a&&function(t){n.d(e,t,function(){return r[t]})}(a);var f=n("2877"),c=Object(f["a"])(r["default"],u["a"],u["b"],!1,null,null,null);e["default"]=c.exports},d062:function(t,e,n){"use strict";n.r(e);var u=n("fcb1"),r=n.n(u);for(var a in u)"default"!==a&&function(t){n.d(e,t,function(){return u[t]})}(a);e["default"]=r.a},e3c6:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;u(n("043a"));function u(t){return t&&t.__esModule?t:{default:t}}var r={name:"Test",data:function(){return{header:"父级组件传入Header组件"}},mounted:function(){this.$refs.header.num=222},methods:{}};e.default=r},fcb1:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var u={name:"Header",props:{header:{type:String,default:""}},data:function(){return{num:""}},methods:{}};e.default=u}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/test/index-create-component',
+    {
+        'components/test/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("b0b6"))
+        })
+    },
+    [['components/test/index-create-component']]
+]);                
